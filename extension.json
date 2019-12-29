@@ -1,0 +1,17 @@
+{
+  "author" : [
+    "腾讯",
+    "某昨P"
+  ],
+  "enable" : 1,
+  "id" : "vConsole",
+  "entry" : [
+    "src\/fix_css.js",
+    "src\/vconsole.min.js",
+    "src\/instance.js"
+  ],
+  "version" : "3.3.4",
+  "description" : "vConsole",
+  "loadBeforeGame" : true,
+  "name" : "vConsole"
+}
